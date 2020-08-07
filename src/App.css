@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+.card-body{
+  background-color: #61dafb;
+}
+
+
+.header{
+  color: white;
+  background-color: #000000;
+}
+
+.body{
+  min-height: 400px;
+}
+
+.footer{
+  color: white;
+  background-color: #000;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
