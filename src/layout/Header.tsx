@@ -16,7 +16,7 @@ export const Header: React.FC = () => {
                     <Nav.Link href="/contact">Contactos</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="link-2">Link</Nav.Link>
+                    <Nav.Link href="/">Link</Nav.Link>
                 </Nav.Item>
             </Nav>
         </div>
