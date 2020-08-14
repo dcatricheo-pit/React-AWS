@@ -16,7 +16,7 @@ export const Header: React.FC = () => {
                     <Nav.Link href="/contact">Contactos</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link href="/">Link</Nav.Link>
+                    <Nav.Link href="/form">form</Nav.Link>
                 </Nav.Item>
             </Nav>
         </div>
