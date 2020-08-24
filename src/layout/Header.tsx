@@ -18,6 +18,12 @@ export const Header: React.FC = () => {
                 <Nav.Item>
                     <Nav.Link href="/form">form</Nav.Link>
                 </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link href="/props">props</Nav.Link>
+                </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link href="/api">Api</Nav.Link>
+                </Nav.Item>
             </Nav>
         </div>
     )
